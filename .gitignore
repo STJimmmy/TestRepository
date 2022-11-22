@@ -1,5 +1,6 @@
 # Compiled class file
 *.class
+GIT2/.idea/*
 
 # Log file
 *.log
